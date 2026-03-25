@@ -11,3 +11,6 @@ delayed result processing
 trust issues in election management
 
 By combining a clean user interface with blockchain-inspired security concepts, VoxChain offers a more reliable and future-ready voting solution.
+
+Landing Section:
+
