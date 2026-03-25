@@ -13,4 +13,5 @@ trust issues in election management
 By combining a clean user interface with blockchain-inspired security concepts, VoxChain offers a more reliable and future-ready voting solution.
 
 Landing Section:
+![image alt](https://github.com/ganbo-arch/Vox-Chain/blob/5ce3bb2f399ea201c124b001c35d2f50d3bfe33b/Screenshot%202026-03-25%20104504.png)
 
